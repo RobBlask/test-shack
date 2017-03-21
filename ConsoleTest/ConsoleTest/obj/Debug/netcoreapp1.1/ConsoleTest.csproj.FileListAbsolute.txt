@@ -3,7 +3,6 @@ C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\bin\Debug\netcoreapp1.1\Console
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\bin\Debug\netcoreapp1.1\ConsoleTest.runtimeconfig.dev.json
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\bin\Debug\netcoreapp1.1\ConsoleTest.dll
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\bin\Debug\netcoreapp1.1\ConsoleTest.pdb
-C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\obj\Debug\netcoreapp1.1\ConsoleTest.csprojResolveAssemblyReference.cache
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\obj\Debug\netcoreapp1.1\ConsoleTest.AssemblyInfo.cs
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\obj\Debug\netcoreapp1.1\ConsoleTest.dll
 C:\UTV\Github\Test-shack\ConsoleTest\ConsoleTest\obj\Debug\netcoreapp1.1\ConsoleTest.pdb
