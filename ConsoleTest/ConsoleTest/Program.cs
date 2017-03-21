@@ -14,8 +14,6 @@ namespace ConsoleTest
             var hj = "";
 
             var kjskdlskdlksd = "jsdksjdksd";
-
-            var kjskdsdsddslskdlksd = "jsdksjdksd";
         }
     }
 }
