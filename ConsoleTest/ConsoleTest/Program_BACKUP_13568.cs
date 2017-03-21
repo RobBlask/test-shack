@@ -11,7 +11,11 @@ namespace ConsoleTest
             var jlkjl = "help";
             var yyy = "";
 
+<<<<<<< Updated upstream
+
+=======
             var hj = "";
+>>>>>>> Stashed changes
         }
     }
 }

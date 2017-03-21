@@ -11,7 +11,7 @@ namespace ConsoleTest
             var jlkjl = "help";
             var yyy = "";
 
-            var hj = "";
+
         }
     }
 }
