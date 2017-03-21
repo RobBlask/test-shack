@@ -9,6 +9,7 @@ namespace ConsoleTest
             Console.WriteLine("Hello World!");
             var rr = "tre";
             var jlkjl = "help";
+            var yyy = "";
         }
     }
 }
